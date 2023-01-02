@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor4_1","characterIndex":0,"characterName":"Actor4th","classId":1,"equips":[5,1,2,8,0],"faceIndex":1,"faceName":"Actor4","traits":[],"initialLevel":3,"maxLevel":99,"name":"Ethan ","nickname":"Ethan","note":"","profile":"A mysterious Character who is a Samurai who won't leave\nthe Princess Anna alone. He was tasked by king to safe her daughter. "},
+{"id":2,"battlerName":"Anna Pecor","characterIndex":0,"characterName":"Anna Pecor","classId":2,"equips":[6,0,0,7,0],"faceIndex":0,"faceName":"Anna Pecor","traits":[],"initialLevel":3,"maxLevel":99,"name":"Anna","nickname":"Anna","note":"","profile":"From the Childhood Anna doesn't meet her parents and raised\nmostly by Ethan. Her life taught her very precious lessons.."},
+{"id":3,"battlerName":"Bablu","characterIndex":0,"characterName":"BabluWalk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Bablu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bablu","nickname":"Guddu","note":"","profile":"Bablu is a Sumarai "}
+]
